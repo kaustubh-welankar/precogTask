@@ -1,11 +1,3 @@
-## Dependencies
-[] Python 3
-[] Tweepy library : for tweet mining
-[] NLTK library : For Extracting names entities
-    nltk.download() 'words'
-    numpy
-[] 
-
 ## Task 1 : Mining Tweets
 Tweets were mined using the tweepy library for python. Tweets are stored in `precogTask` db in the `tweetCollection` collection. 
 Script : 1-tweetMining.py
